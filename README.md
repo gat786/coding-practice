@@ -1,4 +1,7 @@
-# coding-practice
+# Coding Question Solutions
+
+This is a repo for storing my solutions of 
+different coding questions I practice.
 
  id | question name                     | level | question    | solution
 --- | --- | --- | --- | ---
