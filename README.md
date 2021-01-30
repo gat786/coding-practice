@@ -9,3 +9,4 @@ different coding questions I practice.
 2   | kids with greatest number of candy| easy  | [link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [link](./leetcode/kids-largest-no-of-candy.py)
 3   | shuffle the array                 | easy | [link](https://leetcode.com/problems/shuffle-the-array/) | [link](./leetcode/shuffle-the-array.py)
 4 | richest customer wealth | easy | [link](https://leetcode.com/problems/richest-customer-wealth/) | [link](./leetcode\richest-customer-wealth.py)
+5 | make two arrays equal by reversing | easy | [link](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | [link](./leetcode/make-two-arrays-equal-by-reversing-sub-arrays.py)
