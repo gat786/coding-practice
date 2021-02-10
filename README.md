@@ -11,3 +11,4 @@ different coding questions I practice.
 4 | richest customer wealth | easy | [link](https://leetcode.com/problems/richest-customer-wealth/) | [link](./leetcode\richest-customer-wealth.py)
 5 | make two arrays equal by reversing | easy | [link](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | [link](./leetcode/make-two-arrays-equal-by-reversing-sub-arrays.py)
 6 | Widest Vertical Area Between Two Points Containing No Points | medium | [link](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [link]()
+7 | Queries on a Permutation With Key | medium | [link](https://leetcode.com/problems/queries-on-a-permutation-with-key) | [link](./leetcode/queries-on-a-permutation-with-key.py)
